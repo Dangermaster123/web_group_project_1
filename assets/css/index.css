@@ -1,8 +1,11 @@
 body {
   margin: 0;
 }
-
-
+.footer {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+}
 /* On devices wider than 660px */
 @media(min-width: 660px) {
 }
